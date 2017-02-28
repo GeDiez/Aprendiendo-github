@@ -1,0 +1,19 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0889666, 
+          "lon":  -96.7596111
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "Farmacia Similares - Fundicion"
+      }
+    }   
+  ], 
+  "layer": "Antonio"
+}
